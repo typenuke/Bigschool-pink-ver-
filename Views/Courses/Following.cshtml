@@ -1,0 +1,53 @@
+﻿@using Microsoft.AspNet.Identity;
+@model BigSchool.ViewModels.FollowingViewModel
+@{
+    ViewBag.Title = "Home Page";
+}
+
+@section css{
+    <link href="~/Content/trangchu.css" rel="stylesheet" />
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+}
+
+
+<h2>Lecturer I'm Following !!!</h2>
+
+<div class="row">
+    <ul class="course">
+        @foreach (var follow in Model.Followings)
+        {
+            <li style="background: #f3e4e8" class="zone animate__animated animate__flipInX">
+                <div class="details">
+                    <span class="lecturer">
+                        @follow.Name
+                    </span>
+                </div>
+                <a href="#" data-followee-id="@follow.Id" data-follower-id="@User.Identity.GetUserId()" class="js-unfollow">Unfollow</a>
+            </li>
+        }
+    </ul>
+</div>
+
+@section scripts{
+    <script>
+        $('.js-unfollow').click(function () {
+            var link = $(this);
+            bootbox.confirm("Are you sure to unfollow?", function () {
+                var followeeId = link.attr('data-followee-id');
+                var followerId = link.attr('data-follower-id');
+                $.ajax({
+                    url: "/api/unfollow/" + followerId + "/" + followeeId,
+                    method: "DELETE"
+                }).done(function () {
+                    link.parents("li").fadeOut(function () {
+                        this.remove();
+                    });
+                }).fail(function () {
+                    alert("Something failed");
+                });
+
+            });
+        });
+    </script>
+}

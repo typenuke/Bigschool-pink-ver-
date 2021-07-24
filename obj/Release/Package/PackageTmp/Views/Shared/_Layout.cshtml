@@ -1,0 +1,110 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - BigSchool</title>
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+    <link href="~/Content/Footer.css" rel="stylesheet" />
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+    @RenderSection("css", false)
+
+</head>
+<body style="background-color: #eb98af;">
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Big School", "Index", "Home", new { area = "" }, new { @class = "navbar-brand animate__animated animate__lightSpeedInLeft" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                    <li>@Html.ActionLink("About", "About", "Home")</li>
+                    <li>@Html.ActionLink("Add Course", "Create", "Courses")</li>
+                </ul>
+                @Html.Partial("_LoginPartial")
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+    </div>
+    <hr />
+    <footer style="bottom:0px;">
+        <div>
+            <ul class="footer-top">
+                <li class="list-top">
+                    <div class="contactemail">
+                        <p class="hac3">GET UPDATES ON NEW COURSES</p>
+                        <form class="mailbox">
+                            <input type="text" value="" placeholder="Enter Email Adress">
+                            <button type="submit">SUBMIT</button>
+                        </form>
+                    </div>
+                </li>
+                <li class="list-top">
+                    <div>
+                        <p class="hac3" style="text-align: center;">FOLLOW US</p>
+                        <ul class="followus">
+                            <li class="icon-fl" style="padding:10px;"><a href="#"><img src="~/Content/image/twitter.png"></a></li>
+                            <li class="icon-fl" style="padding:10px;"><a href="#"><img src="~/Content/image/instagram.png"></a></li>
+                            <li class="icon-fl" style="padding:10px;"><a href="#"><img src="~/Content/image/facebook.png"></a></li>
+                            <li class="icon-fl" style="padding:10px;"><a href="#"><img src="~/Content/image/youtube.png"></a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li class="list-top">
+                    <div style="text-align:center">
+                        <span class="logo-big">B</span>
+                        <img style="padding-left:10px" src="~/Content/image/big.png" alt="">
+                        <div>
+                            <a href="#"><img style="padding:10px;" id="and-down" src="~/Content/image/gg.png"></a>
+                            <a href="#"><img style="padding:10px;" id="ios-down" src="~/Content/image/ios.png"></a>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="footer-bot">
+            <div class="footer-bar">
+                <ul style="margin-top:60px; margin-bottom:40px">
+                    <li>
+                        <a class="white-a" href="#">Help</a>
+                    </li>
+                    <li>
+                        <a class="white-a" href="#">Contact</a>
+                    </li>
+                    <li>
+                        <a class="white-a" href="#">About Bigschool</a>
+                    </li>
+                    <li>
+                        <a class="white-a" href="#">Site Index</a>
+                    </li>
+                    <li>
+                        <a class="white-a" href="#">Privacy Policy</a>
+                    </li>
+                    <li>
+                        <a class="white-a" href="#">AdChoices</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="tomoca">
+                <p>&copy; @DateTime.Now.Year - Vo Khanh Hung</p>
+            </div>
+        </div>
+    </footer>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

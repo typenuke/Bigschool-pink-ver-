@@ -1,0 +1,351 @@
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\BigSchool.dll.config
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\BigSchool.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\BigSchool.pdb
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\csc.exe
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\csc.exe.config
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\csc.rsp
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\csi.exe
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\csi.exe.config
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\csi.rsp
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\System.AppContext.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\System.Console.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\System.IO.Compression.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\System.Net.Http.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\System.Net.Sockets.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\System.ValueTuple.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\vbc.exe
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\vbc.exe.config
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\vbc.rsp
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\VBCSCompiler.exe
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\Antlr3.Runtime.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\EntityFramework.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\EntityFramework.SqlServer.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\Microsoft.Owin.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\Microsoft.Owin.Security.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\Newtonsoft.Json.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\Owin.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\System.Web.Helpers.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\System.Web.Mvc.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\System.Web.Optimization.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\System.Web.Razor.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\System.Web.WebPages.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\System.Web.WebPages.Razor.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\WebGrease.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\System.Web.Helpers.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\System.Web.Mvc.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\System.Web.Optimization.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\System.Web.Razor.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\System.Web.WebPages.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\System.Web.WebPages.Razor.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\Newtonsoft.Json.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\Antlr3.Runtime.pdb
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\EntityFramework.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\EntityFramework.SqlServer.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\Microsoft.Owin.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\Microsoft.Owin.Security.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\obj\Debug\BigSchool.csproj.AssemblyReference.cache
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\obj\Debug\BigSchool.csproj.CoreCompileInputs.cache
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\obj\Debug\BigSchool.csproj.CopyComplete
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\obj\Debug\BigSchool.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\obj\Debug\BigSchool.pdb
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\obj\Debug\BigSchool.Migrations.InitialModel.resources
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\obj\Debug\BigSchool.csproj.GenerateResource.cache
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\obj\Debug\BigSchool.Migrations.CreateTableCourse.resources
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\obj\Debug\BigSchool.Migrations.PopulateCategoryTable.resources
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\obj\Debug\BigSchool.Migrations.AddNameColumnToApplicationUser.resources
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\obj\Debug\BigSchool.Migrations.AddAttendance.resources
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\System.Net.Http.Formatting.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\System.Web.Http.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\System.Web.Http.WebHost.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\System.Net.Http.Formatting.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\System.Web.Http.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\bin\System.Web.Http.WebHost.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit\BigSchool\obj\Debug\BigSchool.Migrations.AddFollowingsTable.resources
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\BigSchool.dll.config
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\BigSchool.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\BigSchool.pdb
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\csc.exe
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\csc.exe.config
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\csc.rsp
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\csi.exe
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\csi.exe.config
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\csi.rsp
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\System.AppContext.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\System.Console.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\System.IO.Compression.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\System.Net.Http.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\System.Net.Sockets.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\System.ValueTuple.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\vbc.exe
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\vbc.exe.config
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\vbc.rsp
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\VBCSCompiler.exe
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\Antlr3.Runtime.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\EntityFramework.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\EntityFramework.SqlServer.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\Microsoft.Owin.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\Microsoft.Owin.Security.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\Newtonsoft.Json.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\Owin.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\System.Net.Http.Formatting.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\System.Web.Helpers.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\System.Web.Http.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\System.Web.Http.WebHost.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\System.Web.Mvc.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\System.Web.Optimization.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\System.Web.Razor.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\System.Web.WebPages.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\System.Web.WebPages.Razor.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\WebGrease.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\System.Net.Http.Formatting.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\System.Web.Http.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\System.Web.Http.WebHost.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\System.Web.Helpers.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\System.Web.Mvc.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\System.Web.Optimization.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\System.Web.Razor.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\System.Web.WebPages.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\System.Web.WebPages.Razor.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\Newtonsoft.Json.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\Antlr3.Runtime.pdb
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\EntityFramework.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\EntityFramework.SqlServer.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\Microsoft.Owin.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\Microsoft.Owin.Security.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\obj\Debug\BigSchool.csproj.AssemblyReference.cache
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\obj\Debug\BigSchool.csproj.CoreCompileInputs.cache
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\obj\Debug\BigSchool.csproj.CopyComplete
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\obj\Debug\BigSchool.dll
+C:\Users\bisicetea\Desktop\TH-Web\Submit - Copy\BigSchool\obj\Debug\BigSchool.pdb
+E:\Hutech\HK2B\Web\BigSchool\bin\BigSchool.dll.config
+E:\Hutech\HK2B\Web\BigSchool\bin\BigSchool.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\BigSchool.pdb
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\csc.exe
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\csc.exe.config
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\csc.rsp
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\csi.exe
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\csi.exe.config
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\csi.rsp
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\System.AppContext.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\System.Collections.Immutable.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\System.Console.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\System.Globalization.Calendars.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\System.IO.Compression.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\System.IO.FileSystem.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\System.Net.Http.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\System.Net.Sockets.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\System.Reflection.Metadata.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\System.ValueTuple.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\System.Xml.XPath.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\vbc.exe
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\vbc.exe.config
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\vbc.rsp
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\VBCSCompiler.exe
+E:\Hutech\HK2B\Web\BigSchool\bin\roslyn\VBCSCompiler.exe.config
+E:\Hutech\HK2B\Web\BigSchool\bin\Antlr3.Runtime.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\EntityFramework.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\EntityFramework.SqlServer.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\Microsoft.Owin.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\Microsoft.Owin.Security.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\Microsoft.Owin.Security.Google.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\Microsoft.Web.Infrastructure.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\Newtonsoft.Json.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\Owin.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\System.Net.Http.Formatting.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\System.Web.Helpers.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\System.Web.Http.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\System.Web.Http.WebHost.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\System.Web.Mvc.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\System.Web.Optimization.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\System.Web.Razor.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\System.Web.WebPages.Deployment.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\System.Web.WebPages.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\System.Web.WebPages.Razor.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\WebGrease.dll
+E:\Hutech\HK2B\Web\BigSchool\bin\System.Net.Http.Formatting.xml
+E:\Hutech\HK2B\Web\BigSchool\bin\System.Web.Http.xml
+E:\Hutech\HK2B\Web\BigSchool\bin\System.Web.Http.WebHost.xml
+E:\Hutech\HK2B\Web\BigSchool\bin\System.Web.Helpers.xml
+E:\Hutech\HK2B\Web\BigSchool\bin\System.Web.Mvc.xml
+E:\Hutech\HK2B\Web\BigSchool\bin\System.Web.Optimization.xml
+E:\Hutech\HK2B\Web\BigSchool\bin\System.Web.Razor.xml
+E:\Hutech\HK2B\Web\BigSchool\bin\System.Web.WebPages.xml
+E:\Hutech\HK2B\Web\BigSchool\bin\System.Web.WebPages.Deployment.xml
+E:\Hutech\HK2B\Web\BigSchool\bin\System.Web.WebPages.Razor.xml
+E:\Hutech\HK2B\Web\BigSchool\bin\Newtonsoft.Json.xml
+E:\Hutech\HK2B\Web\BigSchool\bin\Antlr3.Runtime.pdb
+E:\Hutech\HK2B\Web\BigSchool\bin\EntityFramework.xml
+E:\Hutech\HK2B\Web\BigSchool\bin\EntityFramework.SqlServer.xml
+E:\Hutech\HK2B\Web\BigSchool\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Hutech\HK2B\Web\BigSchool\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Hutech\HK2B\Web\BigSchool\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Hutech\HK2B\Web\BigSchool\bin\Microsoft.Owin.xml
+E:\Hutech\HK2B\Web\BigSchool\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Hutech\HK2B\Web\BigSchool\bin\Microsoft.Owin.Security.xml
+E:\Hutech\HK2B\Web\BigSchool\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Hutech\HK2B\Web\BigSchool\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Hutech\HK2B\Web\BigSchool\bin\Microsoft.Owin.Security.Google.xml
+E:\Hutech\HK2B\Web\BigSchool\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Hutech\HK2B\Web\BigSchool\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Hutech\HK2B\Web\BigSchool\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Hutech\HK2B\Web\BigSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Hutech\HK2B\Web\BigSchool\obj\Debug\BigSchool.csproj.AssemblyReference.cache
+E:\Hutech\HK2B\Web\BigSchool\obj\Debug\BigSchool.Migrations.EmptyMigration.resources
+E:\Hutech\HK2B\Web\BigSchool\obj\Debug\BigSchool.csproj.GenerateResource.cache
+E:\Hutech\HK2B\Web\BigSchool\obj\Debug\BigSchool.csproj.CoreCompileInputs.cache
+E:\Hutech\HK2B\Web\BigSchool\obj\Debug\BigSchool.csproj.CopyComplete
+E:\Hutech\HK2B\Web\BigSchool\obj\Debug\BigSchool.dll
+E:\Hutech\HK2B\Web\BigSchool\obj\Debug\BigSchool.pdb
